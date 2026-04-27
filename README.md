@@ -4,28 +4,29 @@
 
 ## Elly Okello
 
-Software Engineer focused on designing and building structured, scalable systems that solve real-world inefficiencies.
+Software Engineer building structured, scalable systems with a focus on clarity, performance, and real-world impact.
+
+---
+### Focus
+- System design & scalable backend development  
+- Full-stack application engineering (TypeScript / JavaScript ecosystems)  
+- Building production-minded solutions from real-world problems  
 
 ---
 
-### Current Direction
-- Developing SmartWaste & LearnLight into production-ready systems  
-- Exploring system design, backend architecture, and scalability  
-- Leading innovation-driven initiatives within university environments  
-
----
-
-### Engineering Perspective
-Software should be simple to use, difficult to break, and built with clear intent.
-
+### Engineering Principle
+Simplicity scales. Complexity fails quietly.
 ---
 
 ## 🛠️ Stack
 
 ### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,14 +34,13 @@ Software should be simple to use, difficult to break, and built with clear inten
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
-
 ---
 
 ## 📊 Activity
