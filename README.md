@@ -53,7 +53,7 @@ A smart waste management concept designed to improve efficiency in waste collect
 
 - ⚙️ Tech:  React, Node.js, MongoDB
 - 🎯 Impact: Improves waste reporting efficiency and promotes cleaner urban environments through structured digital coordination
-- 🔗 Repo: https://github.com/Elly739/SmartWaste
+- 🔗 Repo: https://github.com/Elly739/Smartwaste.ke
 
 ---
 
