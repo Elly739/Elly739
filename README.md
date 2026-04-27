@@ -1,91 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Elly%20|%20Software%20Engineer&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Elly%20Okello&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
-# Hi, I'm Elly 👋
 
-🚀 Software Engineer | Innovation Builder | Problem Solver
+## Elly Okello
 
-I turn ideas into scalable software systems and explore how technology can create real-world impact.
-
----
-
-## 💡 Current Focus
-- Building impactful software projects
-- Exploring system design & scalable architectures
-- Leading innovation initiatives at university level
+Software Engineer focused on designing and building structured, scalable systems that solve real-world inefficiencies.
 
 ---
 
-## ⚡ What I Believe
-"Code is not just syntax — it's leverage for change."
+### Current Direction
+- Developing SmartWaste & LearnLight into production-ready systems  
+- Exploring system design, backend architecture, and scalability  
+- Leading innovation-driven initiatives within university environments  
+
 ---
 
-## 🛠️ Tech Stack
+### Engineering Perspective
+Software should be simple to use, difficult to break, and built with clear intent.
 
-### 💻 Languages
+---
+
+## 🛠️ Stack
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🌐 Web & Backend
+### Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-![Elly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=tokyonight)
----
----
-
-## 📈 Development Activity
-
-- 🔭 Currently building: SmartWaste & LearnLight improvements
-- 🌱 Learning: System design, backend scalability, cloud fundamentals
-- ⚡ Focus: Turning ideas into production-ready systems
-## 🚀 Featured Projects
-
-### 🔹 SmartWaste
-A smart waste management concept designed to improve efficiency in waste collection and reporting through digital tracking and user engagement.
-
-- ⚙️ Tech:  React, Node.js, MongoDB
-- 🎯 Impact: Improves waste reporting efficiency and promotes cleaner urban environments through structured digital coordination
-- 🔗 Repo: https://github.com/Elly739/Smartwaste.ke
 
 ---
 
-### 🔹 LearnLight
-An educational platform aimed at simplifying access to learning resources and improving student engagement through structured content delivery.
+## 📊 Activity
 
-- ⚙️ Tech: HTML, CSS, PostgreSQL
-- 🎯 Impact: Enhances learning accessibility and organizes study material for better academic productivity
-- 🔗 Repo: https://github.com/Elly739/learnlight
----
-
-## 🤝 Let’s Connect
-
-I’m always open to collaboration, innovation discussions, and impactful software ideas.
-
-- 📧 Email: iamellyokello@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/okelloelly-102788312/
-- 🧠 GitHub: https://github.com/Elly739
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=tokyonight)
 
 ---
 
-## ⚡ Closing Note
+## 📈 Development
 
-Building isn’t just about writing code, it’s about creating systems that solve real problems and scale beyond you.
+- Currently building and refining SmartWaste & LearnLight  
+- Focused on backend structure, scalability, and system thinking  
+- Continuously improving through real-world problem solving  
 
-Let’s build something meaningful.
+---
+
+## 🚀 Featured Work
+
+### SmartWaste
+A structured waste management system designed to improve reporting, tracking, and operational efficiency.
+
+- ⚙️ Tech: React, Node.js, MongoDB  
+- 🎯 Focus: Streamlining waste reporting workflows and improving response coordination  
+- 🔗 Repo: https://github.com/Elly739/Smartwaste.ke  
+
+---
+
+### LearnLight
+A learning platform focused on organizing and simplifying access to academic resources.
+
+- ⚙️ Tech: HTML, CSS, PostgreSQL  
+- 🎯 Focus: Improving content structure and accessibility for students  
+- 🔗 Repo: https://github.com/Elly739/learnlight  
+
+---
+
+## Contact
+
+- 📧 iamellyokello@gmail.com  
+- 💼 https://www.linkedin.com/in/okelloelly-102788312/  
+
+---
+
+Focused on building systems that are practical, scalable, and actually useful.
