@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Elly%20|%20Software%20Engineer&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
 # Hi, I'm Elly 👋
 
 🚀 Software Engineer | Innovation Builder | Problem Solver
@@ -45,7 +48,13 @@ I turn ideas into scalable software systems and explore how technology can creat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=tokyonight)
 ---
+---
 
+## 📈 Development Activity
+
+- 🔭 Currently building: SmartWaste & LearnLight improvements
+- 🌱 Learning: System design, backend scalability, cloud fundamentals
+- ⚡ Focus: Turning ideas into production-ready systems
 ## 🚀 Featured Projects
 
 ### 🔹 SmartWaste
