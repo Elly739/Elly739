@@ -130,8 +130,7 @@ A technology-driven waste management system designed to improve reporting, track
 React • Node.js • MongoDB
 
 Repository:
-https://github.com/Elly739/Smartwaste.ke
-
+https://github.com/Elly739/SmartWaste
 
 ---
 
