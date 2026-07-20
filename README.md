@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Elly%20Okello&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# Elly Okello | Software Engineer & Systems Builder
+# Elly Okello | Software Engineer & Systems Architect
 
 > Building scalable software systems that solve practical problems through thoughtful architecture, automation, and technology.
 
