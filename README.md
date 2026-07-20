@@ -193,11 +193,12 @@ A university-focused platform designed to improve communication, information sha
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Metrics" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Streak Stats" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img src="https://vercel.app" alt="Activity Stats" width="48%" />
 </p>
 
 
