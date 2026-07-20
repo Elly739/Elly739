@@ -192,18 +192,12 @@ A university-focused platform designed to improve communication, information sha
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://shields.io" alt="Followers"/>
-  <img src="https://shields.io" alt="Repo Stars"/>
-</p>
+![GitHub Stats](https://vercel.app)
 
-### 📅 Public Contributions
-Go to your [GitHub Profile](https://github.com/Elly739) to view the live contribution matrix.
+![Top Languages](https://vercel.app)
 
-### 💻 Core Tech Stack Distribution
-- **Backend & Systems:** Python, Node.js, C, C++, Java
-- **Frontend Web:** TypeScript, JavaScript, React, Next.js
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+![Streak Stats](https://streak-stats.demolab.com?user=Elly739&theme=github-dark&hide_border=true)
+
 
 
 ---
