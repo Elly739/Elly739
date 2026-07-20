@@ -193,18 +193,12 @@ A university-focused platform designed to improve communication, information sha
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=github_dark&hide_border=true)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Elly739&theme=github-dark&hide_border=true"/>
-</p>
----
+![Streak Stats](https://streak-stats.demolab.com?user=Elly739&theme=github-dark&hide_border=true)
+
 
 ---
 
