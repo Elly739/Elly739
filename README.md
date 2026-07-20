@@ -189,14 +189,20 @@ A university-focused platform designed to improve communication, information sha
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Elly739&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=tokyonight)
-
+---
 
 ---
 
