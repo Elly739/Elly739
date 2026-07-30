@@ -235,21 +235,14 @@ A university-focused platform designed to improve communication, information sha
 
 # 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=github-dark&hide_border=true" alt="Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=github-dark&hide_border=true" alt="Streak Stats" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="49%" />
+</div>
 ---
 
 # 📈 Current Engineering Journey
