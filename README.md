@@ -235,12 +235,12 @@ A university-focused platform designed to improve communication, information sha
 
 # 📊 GitHub Analytics
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=github-dark&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
@@ -250,7 +250,6 @@ A university-focused platform designed to improve communication, information sha
     </td>
   </tr>
 </table>
-
 ---
 
 # 📈 Current Engineering Journey
