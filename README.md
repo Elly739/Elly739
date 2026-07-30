@@ -236,12 +236,19 @@ A university-focused platform designed to improve communication, information sha
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elly739&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=github-dark&hide_border=true" alt="Streak Stats" width="49%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elly739&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="49%" />
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=dark)](https://github.com/Elly739)
+
+### 📊 GitHub Stats (Alternative Service)
+[![Elly's GitHub stats](https://github-readme-stats.jstrieb.workers.dev/api?username=Elly739&show_icons=true&theme=dark)](https://github.com/Elly739)
+
+### 📚 Top Languages (Alternative Service)
+[![Top Langs](https://github-readme-stats.jstrieb.workers.dev/api/top-langs/?username=Elly739&layout=compact&theme=dark)](https://github.com/Elly739)
+
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elly739&theme=darkhub)](https://github.com/Elly739)
+
 </div>
 ---
 
