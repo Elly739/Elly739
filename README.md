@@ -240,16 +240,7 @@ A university-focused platform designed to improve communication, information sha
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=dark)](https://github.com/Elly739)
 
-### 📊 GitHub Stats (Alternative Service)
-[![Elly's GitHub stats](https://github-readme-stats.jstrieb.workers.dev/api?username=Elly739&show_icons=true&theme=dark)](https://github.com/Elly739)
 
-### 📚 Top Languages (Alternative Service)
-[![Top Langs](https://github-readme-stats.jstrieb.workers.dev/api/top-langs/?username=Elly739&layout=compact&theme=dark)](https://github.com/Elly739)
-
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elly739&theme=darkhub)](https://github.com/Elly739)
-
-</div>
 ---
 
 # 📈 Current Engineering Journey
