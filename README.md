@@ -235,7 +235,7 @@ A university-focused platform designed to improve communication, information sha
 
 # 📊 GitHub Analytics
 
-<div align="center">
+
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=dark)](https://github.com/Elly739)
