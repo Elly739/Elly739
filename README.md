@@ -232,9 +232,6 @@ A university-focused platform designed to improve communication, information sha
 - Student resources
 
 ---
-
-### Stats 📊 | Top Languages 💻
-
 ### Stats 📊 | Top Languages 💻
 
 | Stats 📊 | Top Languages 💻 |
