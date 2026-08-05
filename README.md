@@ -233,9 +233,13 @@ A university-focused platform designed to improve communication, information sha
 
 ---
 
-Stats 📊 | Top Languages 💻
+### Stats 📊 | Top Languages 💻
 
-| ![Stats](https://github-readme-stats-ashy-alpha-45.vercel.app/api?username=Elly739&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats-ashy-alpha-45.vercel.app/api/top-langs/?username=Elly739&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) | 
+### Stats 📊 | Top Languages 💻
+
+| Stats 📊 | Top Languages 💻 |
+| --- | --- |
+| ![Stats](https://github-readme-stats-ashy-alpha-45.vercel.app/api?username=Elly739&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats-ashy-alpha-45.vercel.app/api/top-langs/?username=Elly739&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
 
 # 📈 Current Engineering Journey
 
