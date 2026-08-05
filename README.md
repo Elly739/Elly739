@@ -233,15 +233,11 @@ A university-focused platform designed to improve communication, information sha
 
 ---
 
-# 📊 GitHub Analytics
+Stats 📊 | Top Languages 💻
 
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-###  Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elly739&theme=dark))
-
-
----
+| ![Stats](https://github-readme-stats-ashy-alpha-45.vercel.app/api?username=Elly739&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats-ashy-alpha-45.vercel.app/api/top-langs/?username=Elly739&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) | 
 
 # 📈 Current Engineering Journey
 
